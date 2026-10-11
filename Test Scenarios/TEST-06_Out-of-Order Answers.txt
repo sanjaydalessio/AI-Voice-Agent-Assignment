@@ -1,0 +1,13 @@
+Test 6 — Out-of-Order Answers
+
+Residential property
+Joint ownership
+₹80 lakh property value
+Original documents available
+₹75 lakh loan
+Salaried
+Bank income
+15-year tenure
+
+Expected:
+CAPTURE PROVIDED ANSWERS → SKIP DUPLICATE QUESTIONS → SENIOR EXPERT HANDOFF

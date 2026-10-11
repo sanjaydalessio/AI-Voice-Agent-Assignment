@@ -1,0 +1,7 @@
+Test 7 — Existing Loan
+
+Customer already has a loan against the property.
+Wants assistance with the existing loan.
+
+Expected:
+TRANSFER SPECIALIST MESSAGE → END CALL

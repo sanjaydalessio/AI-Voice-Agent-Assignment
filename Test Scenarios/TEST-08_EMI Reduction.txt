@@ -1,0 +1,6 @@
+Test 8 — Existing Loan / EMI Enquiry
+
+Customer wants to release or transfer an existing loan.
+
+Expected:
+TRANSFER SPECIALIST MESSAGE → END CALL

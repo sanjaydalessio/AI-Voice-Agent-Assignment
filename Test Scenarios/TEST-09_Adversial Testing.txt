@@ -1,0 +1,7 @@
+Test 9 — Adversarial Property Correction
+
+Customer initially says Residential.
+Customer corrects the answer to Agricultural.
+
+Expected:
+UPDATE PROPERTY TYPE → IMMEDIATE DISQUALIFICATION → END CALL

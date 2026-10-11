@@ -1,0 +1,9 @@
+Test 4 — Missing Original Documents
+
+Commercial property
+Sole ownership
+Only photocopies available
+Original documents unavailable
+
+Expected:
+IMMEDIATE DISQUALIFICATION → END CALL

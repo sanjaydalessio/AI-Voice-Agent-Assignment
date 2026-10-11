@@ -1,0 +1,14 @@
+Test 1 — Eligible Customer
+
+Residential property
+Joint ownership
+Original documents available
+₹65 lakh
+Self-employed
+Bank income
+₹75 lakh property value
+5-year tenure
+
+
+Expected:
+QUALIFIED → SENIOR EXPERT HANDOFF

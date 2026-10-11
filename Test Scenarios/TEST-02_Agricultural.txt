@@ -1,0 +1,6 @@
+Test 2 — Agricultural Property
+
+Property = Agricultural
+
+Expected:
+IMMEDIATE DISQUALIFICATION → END CALL

@@ -1,0 +1,7 @@
+Test 3 — Cash Income
+
+Self-employed
+Income mode = Cash
+
+Expected:
+IMMEDIATE DISQUALIFICATION → END CALL

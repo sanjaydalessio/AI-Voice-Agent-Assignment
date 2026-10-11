@@ -1,0 +1,32 @@
+agent: Hello, may I speak with Sanjay?
+user: Yeah. You're speaking with Sanjay. 
+agent: Is this a convenient time to talk, or are you busy right now?
+user: Yeah. This is a convenient time to talk. 
+agent: We're reaching out because, as one of our valued customers, you may be eligible for a special Loan Against Property offer of up to ₹75 lakh. A Loan Against Property lets you apply using your property as security. I'd just like to ask a few questions to check the preliminary criteria. Are you looking for a new loan, or to transfer an existing 
+agent: loan or EMI arrangement?
+agent: Before we proceed, may I know if you're looking for a new Loan Against Property or if you'd like to transfer 
+user: How about higher 
+agent: an existing loan?
+user: about the LAP offer? 
+agent: Understood. I'll ask you a few brief questions to check the preliminary eligibility criteria for this offer. What type of property are you planning to offer as security — residential, commercial, industrial, or agricultural?
+user: It's a residential property. 
+agent: Is the property solely owned by you, or jointly 
+user: It 
+agent: owned?
+user: is jointly white owned by my sister and me. 
+agent: Are the original property documents available for verification?
+user: It yes. It is available in my home. 
+agent: What loan amount are you looking for?
+user: I'm looking for around sixty five lakhs. 
+agent: Are you salaried or self-employed?
+user: I am self employed. 
+agent: Do you receive your income through a bank account or in cash?
+user: I receive mine come through a bank account. 
+agent: Approximately what is the current market value of the property?
+user: I would say it's around seventy five lakhs. 
+agent: For how many years would you like the loan tenure 
+user: How 
+agent: to be?
+user: about five years? 
+agent: Thank you for providing those details. Based on the information you've shared, you meet the preliminary eligibility criteria for this offer. A senior loan expert will call you shortly to discuss the next steps and the applicable interest rate. Final approval and loan terms will be subject to the lender's assessment. Thank you for your 
+agent: time.

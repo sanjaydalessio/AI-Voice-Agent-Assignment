@@ -1,0 +1,7 @@
+Test 5 — Customer Unavailable
+
+Another person answers the call.
+Customer is busy.
+
+Expected:
+POLITE CALLBACK ARRANGEMENT → END CALL

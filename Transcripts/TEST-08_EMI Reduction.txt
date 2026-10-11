@@ -1,0 +1,15 @@
+agent: Hello, may I speak with Sanjay?
+user: Yeah. You're speaking with Sanjay. 
+agent: Is this a convenient time to talk, or are you busy 
+user: This is 
+agent: right now?
+user: a convenient time to talk. 
+agent: We're reaching out because, as one of our valued customers, you may be eligible for a special Loan Against Property offer of up to ₹75 lakh. A Loan Against Property lets you apply using your property as security. I'd just like to ask a few questions to check whether you meet the preliminary 
+agent: eligibility criteria for this offer.
+agent: Before we proceed, may I know if you're looking for a new Loan Against Property or if you'd like to 
+user: I want to release 
+agent: transfer an existing loan?
+user: my existing loan. 
+agent: Thank you for clarifying. Since your enquiry is about transferring an existing loan, a specialist can assist you with the relevant details and next steps. Thank you for your 
+agent: time.
+agent: Goodbye.

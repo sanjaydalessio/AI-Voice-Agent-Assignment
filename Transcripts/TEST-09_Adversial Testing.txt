@@ -1,0 +1,15 @@
+agent: Hello, may I speak with Sanjay?
+user: Yes. You're speaking with Sanjay. 
+agent: Is this a convenient time to talk, or are you 
+user: This is a convenient 
+agent: busy right now?
+user: time to talk. 
+agent: We're reaching out because, as one of our valued customers, you may be eligible for a special Loan Against Property offer of up to ₹75 lakh. It lets you apply using your property as security. I'd just like to ask a few questions to 
+agent: check the preliminary criteria.
+agent: Before we proceed, may I know if you're looking for a new Loan Against Property or if 
+user: I'm looking for a new loan against property. 
+agent: you'd like to transfer an existing loan?
+agent: Understood. I'll ask you a few brief questions to check the preliminary eligibility criteria for this offer. What type of property are you planning to offer as security — residential, commercial, industrial, or agricultural?
+user: It's a residential property. Oh, no. Actually, it's an agricultural property. 
+agent: Thank you for sharing that information. Based on the criteria for this particular offer, we won't be able to proceed at 
+agent: this time. Thank you for your time.
